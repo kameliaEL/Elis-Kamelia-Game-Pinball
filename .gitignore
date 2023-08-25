@@ -1,0 +1,7 @@
+
+pinball/Library/*
+pinball/Loogs/*
+pinball/Temp/*
+
+.vsconfig
+*.sln
